@@ -39,5 +39,5 @@ Automatically configure a fixed screen resolution (e.g., 1920×1080) for Parrot 
 * If `xrandr` output shows a display name other than `Virtual1`, update `set-resolution.sh`.
 * Change resolution by editing the `xrandr --newmode` definition.
 
-````
+
 
